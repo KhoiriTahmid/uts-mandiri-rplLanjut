@@ -1,1 +1,8 @@
-Muhamad Khoiri Tahmid
+Program ini dibuat menggunakan:
+- Jakarta EE
+- Servlet, jsp
+- Hibernate
+- PostgreSQL
+
+
+Table ERD yang digunakan adalah Table Employees dan Jobs
