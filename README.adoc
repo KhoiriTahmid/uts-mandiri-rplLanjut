@@ -1,8 +1,11 @@
-Program ini dibuat menggunakan:
+### Technology Stack
 - Jakarta EE
-- Servlet, jsp
+- Servlets
+- JSP (JavaServer Pages)
 - Hibernate
 - PostgreSQL
 
 
-Table ERD yang digunakan adalah Table Employees dan Jobs
+### Table ERD yang dipakai:
+- Employees
+- Jobs
